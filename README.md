@@ -24,3 +24,7 @@
 ### My Languages Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisouri7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact Me
+
+<a href="https://x.com/PromisedImam"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000"></a>
